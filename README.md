@@ -1,6 +1,6 @@
 # Smart-Energy-Monitor
 Project
-A non-invasive energy monitor for a living space. 
+<n> A non-invasive energy monitor for a living space. </n>
 Allows users to make informed decisions by providing detailed information about energy usage and costs.
 Helps users reduce their environmental impact by increasing consciousness of energy waste.
 
